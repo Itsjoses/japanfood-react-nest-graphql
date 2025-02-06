@@ -66,3 +66,18 @@ npx prisma db seed
 ```bash
 npm run start:dev
 ```
+
+# Frontend Display
+
+## Home Page
+![Screenshot 2025-02-06 at 16-33-50 Vite React TS](https://github.com/user-attachments/assets/031db18f-dca7-45d9-bae5-d147f47fa6e0)
+
+## Menu Page
+![Screenshot 2025-02-06 at 17-00-38 Vite React TS](https://github.com/user-attachments/assets/ab93a60c-a53c-4caa-aff6-8d788ef24e5e)
+
+## Login Page
+![Screenshot 2025-02-06 at 17-01-13 Vite React TS](https://github.com/user-attachments/assets/90ee37b4-fbed-436f-981a-844ca5b5939c)
+
+## Register Page
+![Screenshot 2025-02-06 at 17-01-41 Vite React TS](https://github.com/user-attachments/assets/aa97c4ab-268f-4f83-8e90-d82cbc4cd513)
+
